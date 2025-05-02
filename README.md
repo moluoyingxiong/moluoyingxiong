@@ -8,7 +8,7 @@
   </p>
   
   ### Hi there 👋 This is Bean ！✨ 
-- 👋 Hi, I’m @moluoyingxiong
+- 👋 Hi, I’m Bean, one of moluoyingxiong 
 - 👀 I’m interested in Front-end, Nodejs, AI, Smart Contracts,       
 - 🌱 I’m currently learning Smart Contracts
 - 💞️ I’m looking to collaborate on one Interesting little project。    
