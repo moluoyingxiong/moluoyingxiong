@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on one Interesting little project。    
 - 📫 How to reach me wx:lb104360  
 
-### some webs projects
+### some web3 projects
 - https://brain-mining.vercel.app/
 - https://zing-coach.vercel.app/
 - https://quackquack-phi.vercel.app/
